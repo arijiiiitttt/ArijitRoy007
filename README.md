@@ -1,8 +1,8 @@
-[![MasterHead]([(https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif))](https://arijitroy007.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://arijitroy007.io)
 
 <h1 align="center">Hi 👋, I'm Arijit Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt="Coding" width="400" src="https://wall.alphacoders.com/big.php?i=1350469">
+<image align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1708992000&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitroy007&label=Profile%20views&color=0e75b6&style=flat" alt="arijitroy007" /> </p>
 
