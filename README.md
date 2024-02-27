@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([(https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif))](https://arijitroy007.io)
 
 <h1 align="center">Hi 👋, I'm Arijit Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
